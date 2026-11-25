@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>DipperOS v12.9</h1>
+  <img src="resources/logo.png" alt="DipperOS v12.9" width="480" />
 
   <p><sub>ESP32-alapú kétmagos FreeRTOS RobotPet, R81 SBUS FPV szimulátor-híd és 2.4 GHz Wi-Fi / BLE RF elemző eszköz</sub></p>
 
