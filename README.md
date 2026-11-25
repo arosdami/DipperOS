@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/Display-SSD1306_128x64_OLED-lightgrey" alt="OLED" />
   </p>
 
+  <br />
+
+  <img src="resources/dipper.jpg" alt="DipperOS Hardware" width="550" />
+
 </div>
 
 ---
